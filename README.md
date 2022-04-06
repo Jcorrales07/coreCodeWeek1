@@ -7,5 +7,6 @@
   interprete va traduciendo tu codigo a lenguaje de maquina para que se pueda ejecutar.
   Algunos Lenguajes: JavaScript, php, python.
   
+  2. Java es un lenguaje compilado, no puede ser interpretado por que utiliza una maquina virtual y esa maquina virtual compila el codigo y lo ejecuta.
   
   
