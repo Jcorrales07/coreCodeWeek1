@@ -21,7 +21,7 @@
 - PRINT "Ingrese la cantidad de dolares que desea convertir a btc: "
 - dolares <-- GET 
 - // conseguimos el valor actual del bitcoin. le aplique un shortener al link para que no fuera tan largo
-- valorBTCEnDolares <-- GET parseFloat(https://bit.ly/3j7DZhB)
+- valorBTCEnDolares <-- GET parseFloat(FROM(https://bit.ly/3j7DZhB))
 - dolaresConvertido <-- dolares / valorBTCEnDolares
 - PRINT "Su cantidad ingresada: " + dolares + "$ convertidad a bitcoins es: \n: " + dolaresConvertido + "BTC"
 - END
