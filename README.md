@@ -33,19 +33,38 @@
     if(i % 2 == 0) {
       console.log(i);
     }
-  }`
+ }`
   
 - Solucion con while loop
-`
-  contador = 0;
+` let contador = 0;
   while (contador < 101) {
     contador++;
-    if(contador % 2 == 0) {
+    if(contador % 2 == 0)
       console.log(contador);
-    }
-  }
-  `
-
-- Solucion con do while
-
+  }`
   
+- Solucion con do while
+` let contador = 0;
+  do {
+    contador++;
+    if(contador % 2 == 0)
+      console.log(contador);
+  } while(contador < 101);`
+  
+# Bad Code 1
+`var cond = false;
+
+if ((cond = true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}`
+- Posible solucion
+`cond = false;
+  if(cond) {
+    console.log('The cond variable is true');
+  } else {
+    console.log('The cond variable is false');
+  }`
+  
+# Bad Code 2
