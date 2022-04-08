@@ -27,5 +27,25 @@
 - END
 
 
+# THURSDAY
+- Solucion con for loop
+`for(var i = 0; i < 101; i++) {
+    if(i % 2 == 0) {
+      console.log(i);
+    }
+  }`
+  
+- Solucion con while loop
+`
+  contador = 0;
+  while (contador < 101) {
+    contador++;
+    if(contador % 2 == 0) {
+      console.log(contador);
+    }
+  }
+  `
+
+- Solucion con do while
 
   
