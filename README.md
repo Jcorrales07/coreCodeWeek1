@@ -29,6 +29,8 @@
 
 # THURSDAY
 - Solucion con for loop
+
+
 `for(var i = 0; i < 101; i++) {
     if(i % 2 == 0) {
       console.log(i);
@@ -36,6 +38,8 @@
  }`
   
 - Solucion con while loop
+
+
 ` let contador = 0;
   while (contador < 101) {
     contador++;
@@ -44,6 +48,8 @@
   }`
   
 - Solucion con do while
+
+
 ` let contador = 0;
   do {
     contador++;
@@ -52,6 +58,7 @@
   } while(contador < 101);`
   
 # Bad Code 1
+
 `var cond = false;
 
 if ((cond = true)) {
@@ -60,6 +67,8 @@ if ((cond = true)) {
   console.log('The cond variable is false');
 }`
 - Posible solucion
+
+
 `cond = false;
   if(cond) {
     console.log('The cond variable is true');
