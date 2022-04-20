@@ -105,3 +105,8 @@ if ((cond = true)) {
  # Solution of number to binary on CODE WARS
     ![Solution of number to binary]>
 (<img width="1246" alt="NumeroABinario" src="https://user-images.githubusercontent.com/81724986/164133155-8f47b7fe-ec10-4853-9569-f3f6ba795ff4.png")   
+
+ # Solution to student final grade on CODE WARS
+    ![Solution to student final grade]>
+(<img width="1250" alt="studentFinalGrade" src="https://user-images.githubusercontent.com/81724986/164134456-e70c463d-de0d-4029-9416-b24c5645ba47.png">
+)   
