@@ -89,3 +89,6 @@ if ((cond = true)) {
     console.log('Just a regular number');
   }
   `
+  
+  	![ Solution to multiply ]>
+(<img width="1250" alt="multiply" src="https://user-images.githubusercontent.com/81724986/164128979-47bf3fd0-9948-4e4e-988e-388cb3fb96f9.png")
