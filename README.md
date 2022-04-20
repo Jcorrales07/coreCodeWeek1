@@ -90,14 +90,18 @@ if ((cond = true)) {
   }
   `
   
-  # Solution to multiply en CODE WARS
+  # Solution to multiply on CODE WARS
   	![ Solution to multiply ]>
 (<img width="1250" alt="multiply" src="https://user-images.githubusercontent.com/81724986/164128979-47bf3fd0-9948-4e4e-988e-388cb3fb96f9.png")
       
- # Solution to ASCII een CODE WARS
+ # Solution to ASCII on CODE WARS
     ![Solution to ASCII]>
 (<img width="1253" alt="ASCIIExercise" src="https://user-images.githubusercontent.com/81724986/164129783-3a192c0b-1bd6-40d9-a3c4-8e493594ee2c.png")
       
- # Solution to ASCII value to String en CODE WARS
+ # Solution to ASCII value to String on CODE WARS
     ![Solution to ASCII]>
 (<img width="1253" alt="ASCII2" src="https://user-images.githubusercontent.com/81724986/164131088-f6594d0e-0f86-466f-8025-6aea2bab0667.png")   
+
+ # Solution of number to binary on CODE WARS
+    ![Solution to ASCII]>
+(<img width="1246" alt="NumeroABinario" src="https://user-images.githubusercontent.com/81724986/164133155-8f47b7fe-ec10-4853-9569-f3f6ba795ff4.png")   
