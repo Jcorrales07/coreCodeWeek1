@@ -97,3 +97,7 @@ if ((cond = true)) {
  # Solution to ASCII een CODE WARS
     ![Solution to ASCII]>
 (<img width="1253" alt="ASCIIExercise" src="https://user-images.githubusercontent.com/81724986/164129783-3a192c0b-1bd6-40d9-a3c4-8e493594ee2c.png")
+      
+ # Solution to ASCII value to String en CODE WARS
+    ![Solution to ASCII]>
+(<img width="1253" alt="ASCII2" src="https://user-images.githubusercontent.com/81724986/164131088-f6594d0e-0f86-466f-8025-6aea2bab0667.png")   
