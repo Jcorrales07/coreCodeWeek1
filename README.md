@@ -99,9 +99,9 @@ if ((cond = true)) {
 (<img width="1253" alt="ASCIIExercise" src="https://user-images.githubusercontent.com/81724986/164129783-3a192c0b-1bd6-40d9-a3c4-8e493594ee2c.png")
       
  # Solution to ASCII value to String on CODE WARS
-    ![Solution to ASCII]>
+    ![Solution to ASCII value to String]>
 (<img width="1253" alt="ASCII2" src="https://user-images.githubusercontent.com/81724986/164131088-f6594d0e-0f86-466f-8025-6aea2bab0667.png")   
 
  # Solution of number to binary on CODE WARS
-    ![Solution to ASCII]>
+    ![Solution of number to binary]>
 (<img width="1246" alt="NumeroABinario" src="https://user-images.githubusercontent.com/81724986/164133155-8f47b7fe-ec10-4853-9569-f3f6ba795ff4.png")   
