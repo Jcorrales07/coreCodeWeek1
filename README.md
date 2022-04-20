@@ -93,3 +93,6 @@ if ((cond = true)) {
   # Solution to multiply en CODE WARS
   	![ Solution to multiply ]>
 (<img width="1250" alt="multiply" src="https://user-images.githubusercontent.com/81724986/164128979-47bf3fd0-9948-4e4e-988e-388cb3fb96f9.png")
+      
+ # Solution to ASCII een CODE WARS
+      ![Solution to ASCII](<img width="1253" alt="ASCIIExercise" src="https://user-images.githubusercontent.com/81724986/164129783-3a192c0b-1bd6-40d9-a3c4-8e493594ee2c.png">)
