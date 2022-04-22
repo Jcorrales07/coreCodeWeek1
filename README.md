@@ -111,13 +111,13 @@ if ((cond = true)) {
 (<img width="1250" alt="studentFinalGrade" src="https://user-images.githubusercontent.com/81724986/164134456-e70c463d-de0d-4029-9416-b24c5645ba47.png">)   
 
 # Solution Holiday VIII - Duty Free
-  ![Solution Holiday VIII - Duty Free](<img width="1250" alt="duty" src="https://user-images.githubusercontent.com/81724986/164576220-59769409-9eeb-4de2-aac9-e2d7ff46cbcb.png">)
+    ![Solution Holiday VIII - Duty Free](<img width="1250" alt="duty" src="https://user-images.githubusercontent.com/81724986/164576220-59769409-9eeb-4de2-aac9-e2d7ff46cbcb.png">)
  
  # Solution Twice as old
-  ![Solution Twice as old](<img width="1253" alt="TwiceAsOld" src="https://user-images.githubusercontent.com/81724986/164576798-1b612a4d-e8d0-4b5b-bb43-43e58402111c.png">)
+    ![Solution Twice as old](<img width="1253" alt="TwiceAsOld" src="https://user-images.githubusercontent.com/81724986/164576798-1b612a4d-e8d0-4b5b-bb43-43e58402111c.png">)
   
   # Solution Valid Spacing
-  ![Solution Valid Spacing](<img width="1253" alt="TwiceAsOld" src="https://user-images.githubusercontent.com/81724986/164579876-146accbf-3882-40ae-b473-2338b4f971bf.png">)
+    ![Solution Valid Spacing](<img width="1253" alt="TwiceAsOld" src="https://user-images.githubusercontent.com/81724986/164579876-146accbf-3882-40ae-b473-2338b4f971bf.png">)
   
   # Solution Fake Binary
-  ![Solution Fake Binary](<img width="1250" alt="FakeBinary" src="https://user-images.githubusercontent.com/81724986/164582004-7b895bcd-cb3e-403c-a13d-de49caca81bb.png">)
+    ![Solution Fake Binary](<img width="1250" alt="FakeBinary" src="https://user-images.githubusercontent.com/81724986/164582004-7b895bcd-cb3e-403c-a13d-de49caca81bb.png">)
