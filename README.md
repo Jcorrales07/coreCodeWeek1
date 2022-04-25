@@ -125,3 +125,23 @@ if ((cond = true)) {
   # Solution Fake Binary
     ![Solution Fake Binary]
 (<img width="1250" alt="FakeBinary" src="https://user-images.githubusercontent.com/81724986/164582004-7b895bcd-cb3e-403c-a13d-de49caca81bb.png">)
+
+  # Solution Remove all exclamation marks from the end of the sentence
+    ![Solution Remove all exclamation marks from the end of the sentence]
+(<img width="1253" alt="removing !" src="https://user-images.githubusercontent.com/81724986/165176764-52da6c43-e417-4d7e-8172-960643acb09d.png">)
+
+  # Solution Vowel remover
+    ![Solution Vowel remover]
+(<img width="1253" alt="removing !" src="https://user-images.githubusercontent.com/81724986/165180648-04ce62d3-85ed-4fd1-bfa8-27352ccc7c6d.png">)
+
+# Solution Rock Paper Scissors!
+    ![Solution Rock Paper Scissors!]
+(<img width="1252" alt="Rock Paper Scissors!" src="https://user-images.githubusercontent.com/81724986/165183096-37698b64-ca3c-4140-a9f5-b69f0182b77e.png">)
+
+# Solution Persistent Bugger
+# I wanted to implement the array functions but i got stucked :c 
+    ![Solution Persistent Bugger]
+(<img width="1251" alt="PersistentBugger" src="https://user-images.githubusercontent.com/81724986/165188170-cc62b0a5-0470-40d0-b57f-df7ac84f2021.png">)
+
+
+
