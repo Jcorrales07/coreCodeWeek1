@@ -143,5 +143,12 @@ if ((cond = true)) {
     ![Solution Persistent Bugger]
 (<img width="1251" alt="PersistentBugger" src="https://user-images.githubusercontent.com/81724986/165188170-cc62b0a5-0470-40d0-b57f-df7ac84f2021.png">)
 
+# Solution Who likes it?
+  ![Solution Who likes it?]
+(<img width="1249" alt="whoLikesIt" src="https://user-images.githubusercontent.com/81724986/165648774-af063c67-db5c-4542-99bd-ab785bfc2cbb.png">)
 
-
+# Solution Bit Counting
+  ![Solution Bit Counting]
+ (<img width="1252" alt="BitCounting" src="https://user-images.githubusercontent.com/81724986/165650647-c95ee8ef-a174-4281-af72-122032123130.png">)
+ 
+ # Solution 
